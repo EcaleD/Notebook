@@ -1,4 +1,4 @@
-# Frontend Networ
+# Frontend Network
 
 ## Procedure for accessing a webpage
 
