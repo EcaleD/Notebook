@@ -10,3 +10,8 @@
   2. [翻译技术点津](https://space.bilibili.com/1033739762/channel/series)
 
 
+![loc project management](image/loc_project_management.pngimage_url)
+
+![loc roles](image/loc_roles.png)
+
+![loc pm](image/loc_project_manager.png)
